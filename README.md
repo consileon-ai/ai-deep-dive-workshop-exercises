@@ -52,3 +52,9 @@ Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](ht
 - [Aishni Parab](https://www.mit.edu/~aishni/)
 - [Dina AlAdawy](https://www.mit.edu/~aladawy/)
 - [Henri Schmidt](https://www.mit.edu/~henris/)
+
+## Repository forked by
+- Andreas Alin 
+
+Forked since pull requests making Google Colab compatibility sure, were merged into original repository with too much delay
+
