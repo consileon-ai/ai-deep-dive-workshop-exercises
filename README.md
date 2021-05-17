@@ -10,8 +10,8 @@ This repository is a collection of tutorials for [MIT Deep Learning](https://dee
 
 This tutorial accompanies the [lecture on Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U). It presents several concepts in deep learning, demonstrating the first two (feed forward and convolutional neural networks) and providing pointers to tutorials on the others. This is a good place to start.
 
-Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
-\[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+Links: \[ [Jupyter Notebook](https://github.com/consileon-ai/workshop/blob/main/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+\[ [Google Colab](https://colab.research.google.com/github/consileon-ai/workshop/blob/main/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Blog Post](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0) \]
 \[ [Lecture Video](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U) \]
 
